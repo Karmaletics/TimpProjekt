@@ -1,0 +1,35 @@
+//
+//  ViewController.swift
+//  Timp
+//
+//  Created by Oliver Lenk on 12.10.19.
+//  Copyright © 2019 UnknownProjekt. All rights reserved.
+//
+
+
+
+
+/*
+ Aufgaben vom Bildschrim
+    - Bei druck auf Login wird man zur Login Page weitergleietet
+    - Bei druck auf Registrieren wird man auf Registrieren weiter geleitet
+ */
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+    // Button für Login
+    @IBAction func logBtn(_ sender: Any) {
+    }
+    
+    // Button für Registrierung
+    @IBAction func regiNextBtn(_ sender: Any) {
+    }
+    
+}
+
